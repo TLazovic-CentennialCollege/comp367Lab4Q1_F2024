@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
+      "projectUniqueName": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
       "projectName": "StringLibrary",
-      "projectPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\StringLibrary\\StringLibrary\\StringLibrary.csproj",
+      "projectPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
       "packagesPath": "C:\\Users\\tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\StringLibrary\\StringLibrary\\obj\\",
+      "outputPath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\ClassLibraryProjects\\StringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/tlazovic/comp367Lab4Q1_F2024/_packaging/feed_comp367Lab4Q1_F2024/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
