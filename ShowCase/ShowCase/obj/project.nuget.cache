@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gL550xvms8=",
+  "success": true,
+  "projectFilePath": "C:\\School stuff\\CentennialCollege\\F2024\\COMP 367 (SEC. C511) - DevOps Implementation\\evaluations\\labs\\4\\comp367Lab4Q1_F2024\\ShowCase\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomo\\.nuget\\packages\\stringlibrary\\1.0.0-ci-20241202-213658\\stringlibrary.1.0.0-ci-20241202-213658.nupkg.sha512"
+  ],
+  "logs": []
+}
